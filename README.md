@@ -1,4 +1,4 @@
-# ghazale
+# ai photo builder
 
 A new Flutter project.
 
